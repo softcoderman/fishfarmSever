@@ -1,0 +1,41 @@
+{
+  "name": "fishfarm",
+  "version": "1.0.0",
+  "description": "Example of token based authentication with Node.js, Express.js, MongoDB and Mongoose.",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^2.1.4",
+    "body-parser": "^1.15.2",
+    "bower": "^1.8.0",
+    "cookie-parser": "^1.4.3",
+    "express-session": "^1.14.2",
+    "express": "^4.14.0",
+    "fs": "^0.0.1-security",
+    "jade": "^1.11.0",
+    "jsonwebtoken": "^7.2.1",
+    "lodash": "^4.17.2",
+    "mongodb": "^2.2.11",
+    "morgan": "^1.7.0",
+    "mongoose": "^4.7.0",
+    "passport-facebook": "^2.1.1",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^4.0.0",
+    "passport-oauth2": "^1.4.0",
+    "path": "^0.12.7",
+    "promise": "^7.1.1",
+    "shortid": "^2.2.8",
+    "serve-favicon": "^2.3.2",
+    "session-file-store": "^1.0.0",
+    "socket.io": "^1.7.1",
+    "uuid": "^3.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,13 @@
+{
+  "server": {
+    "hostName": "localhost",
+    "port": "3000"
+  },
+  "token": {
+    "secret": "Ilovefishing",
+    "expiresInSeconds": "360000"
+  },
+  "database": {
+    "name": "FishFarm"
+  }
+}
